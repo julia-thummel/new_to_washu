@@ -259,7 +259,9 @@ img.dorm {
 
 img.small {
   width: 500px;
-  height: 500px;}
+  height: 500px;
+  float: center;
+}
 
 .entry {
   width: 250px;
