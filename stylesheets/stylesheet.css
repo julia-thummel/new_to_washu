@@ -257,6 +257,10 @@ img.dorm {
   margin-right:30px;
 }
 
+img.small {
+  width: 500;
+  height: 500;}
+
 .entry {
   width: 250px;
   float: left;
