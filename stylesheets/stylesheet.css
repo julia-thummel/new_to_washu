@@ -256,3 +256,26 @@ img.dorm {
   margin-left:30px;
   margin-right:30px;
 }
+
+.entry {
+  width: 250px;
+  float: left;
+  margin: 10px;
+  height: 270px;
+}
+
+figure {
+  display: block;
+  width: 220px;
+  height:250px;
+  background-color: #adebeb;
+  margin: 0px;
+  padding: 9px;
+  text-align: left;}
+  
+figure img {
+  width: 200px;
+  height: 200px;}
+  
+figcaption {
+  padding-left: 20px;}
