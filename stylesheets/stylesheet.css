@@ -244,13 +244,6 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
-/*modal*/
-.modal {
-    max-width: 800px;
-    min-width: 300px;
-    width: auto;
-}
-
-.modal img {
-  width: 100%;
-}
+img.align-left {
+  float:left;
+  margin-right: 10px;}
